@@ -25,12 +25,14 @@ Useful for **teaching, presentations, workshops, and virtual classrooms**.
 
 ## Server Dependices:
 
-- cd server
-- npm install express socket.io cors jsonwebtoken
+```
+cd server
+npm install express socket.io cors jsonwebtoken
+```
 
 ---
 ## Client Dependices:
-
-- cd client
-- npm install react-router-dom socket.io-client react-qr-code
-
+```
+cd client
+npm install react-router-dom socket.io-client react-qr-code
+```
